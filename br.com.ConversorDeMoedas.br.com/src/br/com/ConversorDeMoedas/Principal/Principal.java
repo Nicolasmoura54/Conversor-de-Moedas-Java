@@ -13,9 +13,10 @@ public class Principal {
                 while (opcao != 7) {
 
                     System.out.println("""
-                    
-                    *****************************
+                    ===============================
                     Seja bem-vindo ao Conversor!
+                   
+                    Escolha uma opção:
                     
                     1) Dólar => Real
                     2) Real => Dólar
@@ -23,11 +24,7 @@ public class Principal {
                     4) Real => Euro
                     5) Dólar => Euro
                     6) Euro => Dólar
-                    7) Sair
-                    
-                    Escolha uma opção válida:
-                    *****************************
-                    """);
+                    7) Sair""");
 
                     opcao = leitura.nextInt();
 
