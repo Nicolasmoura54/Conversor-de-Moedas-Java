@@ -20,6 +20,3 @@ Este programa permite que o usuário informe um valor em uma moeda e escolha par
 - Dólar (USD) e Euro (EUR)
   
 E outras que você quiser adicionar.
-
-### 📌 Exemplo de Uso
-
