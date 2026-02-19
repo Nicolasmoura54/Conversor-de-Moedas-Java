@@ -7,7 +7,7 @@ Esse é um projeto simples em Java que faz a conversão entre diferentes moedas,
 
 Este programa permite que o usuário informe um valor em uma moeda e escolha para qual outra moeda deseja converter, realizando o cálculo com base em taxas predefinidas. Ideal para praticar lógica, estruturas de controle (como if/switch) e entrada de dados no console em Java.
 
-### 💡 Funcionalidades
+### 💡Funcionalidades
 
 ✔️ Validação básica de entradas (permite apenas números).
 
@@ -20,3 +20,9 @@ Este programa permite que o usuário informe um valor em uma moeda e escolha par
 - Dólar (USD) e Euro (EUR)
   
 E outras que você quiser adicionar.
+
+### 📌Exemplo de Uso
+![image](https://github.com/Nicolasmoura54/Conversor-de-Moedas-Java/blob/main/Git.png)
+
+
+
